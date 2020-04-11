@@ -3,10 +3,13 @@ This repo is to follow along with Samer Buna's course on LinkedIn learning: Lear
 
 Node, React and Mongo DB are used for make a fully functional web app.
 
-Install node at: https://nodejs.org/
+Install Node.js from: https://nodejs.org/
 
-The guld to help set up the environment is at:
+The guide to help set up the environment is at:
 https://jscomplete.com/learn/1rd-reactful
 
-items to install:
+To keep everything updated. Copy package.json file from:
+https://github.com/jscomplete/learn-fullstack-javascript/tree/v2.4-begin
+
+
 
