@@ -8,8 +8,9 @@ Install Node.js from: https://nodejs.org/
 The guide to help set up the environment is at:
 https://jscomplete.com/learn/1rd-reactful
 
-To keep everything updated. Copy package.json file from:
+To keep everything updated. Copy 'package.json' file from:
 https://github.com/jscomplete/learn-fullstack-javascript/tree/v2.4-begin
 
-
+Also, install EJS with:
+npm install -S ejs
 
