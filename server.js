@@ -21,4 +21,4 @@ server.use(express.static('public'));
 
 server.listen(config.port, () =>{
     console.info('Express listening on port: ', config.port);
-}) //server console
+}); //server console
