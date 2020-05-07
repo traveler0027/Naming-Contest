@@ -7,12 +7,12 @@ const server = express();
 //by default, will look for 'views folder' in root level
 server.set('view engine','ejs');
 
-server.get('/', (req,res) =>{
+server.get('/', (req,res) => { 
     //render pulls ejs templates and partial views
     res.render('index',{
-        content: 'Hello Express and <em>EJS</em>!'
+        content: '...'
     });
-}) // server home page
+}); // server home page
 
 server.use('/api',apiRouter);
 
